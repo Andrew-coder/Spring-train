@@ -48,7 +48,6 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>2.4</version>
                 <configuration>
-                    <outputDirectory>/opt/tomcat/apache-tomcat-8.5.14/webapps</outputDirectory>
                     <warName>paymentsDemo</warName>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
