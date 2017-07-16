@@ -1,0 +1,16 @@
+### Java template
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.idea/
+/.idea/
+*.iml
+*.swp
+!/.mvn/wrapper/maven-wrapper.jar
+out/
+*/build/
+*/target/
